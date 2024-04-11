@@ -31,7 +31,6 @@ Mobile and backend developer
 - Microservice architecture
 - Testing
 - Design and effective development of Flutter apps
-- 
 <h3 id="header" align="center">
 ^_^
 </h3>
