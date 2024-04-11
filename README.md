@@ -16,7 +16,7 @@ Mobile and backend developer
 ### Backend stack
 <div>
   <img height="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
-  <img height="40" style="background-color: #ffffff; border-radius: 5px;" src="https://pgroene.files.wordpress.com/2018/02/asp-net-core-logo-1.png" alt="ASPNETCore" title="ASPNETCore"/>
+  <img height="40" style="border-radius: 5px;" src="https://www.techmeet360.com/wp-content/uploads/2018/11/ASP.NET-Core-Logo.png" alt="ASPNETCore" title="ASPNETCore"/>
   <img height="40" style="border-radius: 5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqAOrxwffQnlfr6UIQhPzXxUZ_jIOLYQCSw&usqp=CAU" alt="EFCore" title="EFCore"/> 
 </div>
 
