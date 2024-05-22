@@ -20,17 +20,6 @@ Mobile and backend developer
   <img height="40" style="border-radius: 5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqAOrxwffQnlfr6UIQhPzXxUZ_jIOLYQCSw&usqp=CAU" alt="EFCore" title="EFCore"/> 
 </div>
 
-## I'm currently studying
- <div >
-	<img height="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/>
-</div>
-
-## I'd like to study
-- RabbitMQ
-- Microservice architecture
-- Testing
-- Design and effective development of Flutter apps
 <h3 id="header" align="center">
 ^_^
 </h3>
