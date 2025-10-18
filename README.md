@@ -8,11 +8,18 @@ Mobile and backend developer
 ## Technologies Used In My Projects
 
 ### Main Technologies
-![Main stack](https://skillicons.dev/icons?i=cs,dotnet,dart,flutter&theme=dark)
+![Main stack](https://skillicons.dev/icons?i=python,cs,dotnet,dart,flutter&theme=dark)
+
 
 ### Additional Technologies
-![Also I use](https://skillicons.dev/icons?i=cpp,python,ts,js,html,css,react,=&theme=dark)
+![Also I use](https://skillicons.dev/icons?i=cpp,ts,js,html,css,react,=&theme=dark)
 
 <h3 id="header" align="center">
 ^_^
 </h3>
+
+
+
+
+
+
