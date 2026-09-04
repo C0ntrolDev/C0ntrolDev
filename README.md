@@ -2,13 +2,13 @@
 Ohayo! I'm a ControlDev 👋
 </h1>
 <h3 id="info" align="center">
-Mobile and backend developer
+ML/Software Engineer or something >~<
 </h3>
 
 ## Technologies Used In My Projects
 
 ### Main Technologies
-![Main stack](https://skillicons.dev/icons?i=python,cs,dotnet,dart,flutter&theme=dark)
+![Main stack](https://skillicons.dev/icons?i=python,cs,dart,flutter&theme=dark)
 
 
 ### Additional Technologies
